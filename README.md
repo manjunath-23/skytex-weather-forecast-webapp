@@ -34,10 +34,6 @@ To use the app, type a name of the city and click on search/press Enter or else 
 This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and Rest API. It is a web application and for running on your local environment you should follow these guidelines.
 
 
-### Prerequisites
-
-- NPM 
-
 ### Setup
 
 
@@ -100,8 +96,9 @@ npm run dev
 
 <br/>
 ## References:
-   Base Paper:[Github Link](https://ieeexplore.ieee.org/abstract/document/6897220)
-   Open Weather API:[GIthub Link](https://openweathermap.org/api/one-call-3)
+
+   - Base Paper:(https://ieeexplore.ieee.org/abstract/document/6897220)
+   - Open Weather API:(https://openweathermap.org/api/one-call-3)
    
 
 
