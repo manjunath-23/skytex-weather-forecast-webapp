@@ -41,19 +41,19 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/manjunath-23/manjunath-23.github.io) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
+# git clone  https://github.com/manjunath-23/manjunath-23.github.io
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/Weather-App
+cd /home/workspace/manjunath-23.github.io
 ```
 
 
@@ -99,6 +99,10 @@ npm run dev
 - Vite Js React Template
 
 <br/>
+## References:
+   Base Paper:[Github Link](https://ieeexplore.ieee.org/abstract/document/6897220)
+   Open Weather API:[GIthub Link](https://openweathermap.org/api/one-call-3)
+   
 
 
 
